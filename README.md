@@ -1,3 +1,11 @@
+This is a Pomodoro-inspired app built to get familiar with React Native using Expo Snacks. I found this project to be quite compelling because I utilize the Pomodoro technique while coding every day.
+
+This project utilizes some native features of both iOS and Android as well some custom-built components to create a timer!
+
+Download this project, install the depenedencies, and run it for yourself to see it in action!
+
+---
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
